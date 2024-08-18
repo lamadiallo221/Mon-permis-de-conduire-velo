@@ -1,0 +1,10 @@
+#Entete1{
+	border-collapse: collapse;
+	border: 1px solid black;
+	margin: 100px auto;
+	background-image: url(img/16681244-arrière-plan-vélo-eamless.jpg); width: 30px; height: 20px; opacity: 0,5
+%;
+}
+img{
+	border-radius: 5px;
+}
